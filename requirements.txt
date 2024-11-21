@@ -3,3 +3,4 @@ uvicorn==0.23.0
 googletrans==4.0.0-rc1
 whisper==1.0
 torch>=1.7.0
+gtts
